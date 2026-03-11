@@ -27,8 +27,9 @@ El objetivo es simular el funcionamiento básico de una plataforma de comercio e
 
 ## 👨‍💻 Autores
 
-**Andres Felipe Realpe Ceron**
-**2**
-**3**
-**4**
-Estudiante de Ingeniería Informática
+* Andres Felipe Realpe Ceron
+* Carlos Daniel Acosta Prieto
+* Haver Fernando Muñoz Jimenez
+* Cristian Lucio
+* Sebastian Cadena Alava
+* Estudiantes de Ingeniería Informática
