@@ -1,7 +1,6 @@
 # 🛒 Plataforma de Comercio Electrónico
 
-Proyecto desarrollado en **Java** aplicando **Programación Orientada a Objetos (POO)**.
-El objetivo es simular el funcionamiento básico de una plataforma de comercio electrónico donde los usuarios pueden interactuar con productos y realizar operaciones dentro del sistema.
+El programa simula un sistema de ventas en consola donde se puede ver un catálogo de productos, agregarlos a un carrito de compras y generar un pedido con IVA del 19%. El pago se realiza con tarjeta de crédito o cuenta digital, y el sistema genera un comprobante con estado APROBADO o RECHAZADO según los datos ingresados. Si el pago es aprobado, el inventario se actualiza automáticamente.
 
 ---
 
